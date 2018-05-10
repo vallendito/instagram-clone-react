@@ -27,3 +27,17 @@
     font-family: 'PT Sans', sans-serif;
     font-weight: bold;
 }
+.Post-image-bg {
+    background-color: #efefef;
+}
+.Post-image img {
+    display: block;
+    width: 100%;
+}
+.Post-caption {
+    padding: 16px;
+}
+.Post-caption strong {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+}

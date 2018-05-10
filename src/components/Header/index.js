@@ -6,7 +6,9 @@ class Header extends Component {
             <nav className="Nav">
                 <div className="Nav-menus">
                     <div className="Nav-Brand">
-                        <a className="Nav-brand-logo" href="/"></a>
+                        <a className="Nav-brand-logo" href="/">
+                            Instagram
+                        </a>
                     </div>
                 </div>
             </nav>
